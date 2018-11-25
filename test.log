@@ -1,0 +1,6 @@
+2018-11-25 11:28:29.957 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered username : admin
+2018-11-25 11:28:30.164 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered password : admin
+2018-11-25 11:28:31.641 [main] INFO  com.sgic.automation.demo.pages.LoginPage >>  Clicked login button
+2018-11-25 11:28:40.876 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered username : Admin
+2018-11-25 11:28:41.152 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered password : Admin123
+2018-11-25 11:28:42.590 [main] INFO  com.sgic.automation.demo.pages.LoginPage >>  Clicked login button

@@ -1,0 +1,18 @@
+2018-11-24 16:28:27.758 [main] INFO  com.sgic.automation.demo.util.Log >> ****************************************
+2018-11-24 16:28:27.761 [main] INFO  com.sgic.automation.demo.util.Log >> ************** start test case *************
+2018-11-24 16:28:27.761 [main] INFO  com.sgic.automation.demo.util.Log >> ****************************************
+2018-11-24 16:28:27.913 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ######  entered username ######
+2018-11-24 16:28:28.107 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ######  entered password ######
+2018-11-24 16:28:30.579 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ######  login button clicked ######
+2018-11-24 16:28:33.914 [main] INFO  com.sgic.automation.demo.util.Log >> ****************************************
+2018-11-24 16:28:33.914 [main] INFO  com.sgic.automation.demo.util.Log >> ************** end test case *************
+2018-11-24 16:28:33.915 [main] INFO  com.sgic.automation.demo.util.Log >> ****************************************
+2018-11-24 16:28:34.340 [main] INFO  com.sgic.automation.demo.util.Log >> ****************************************
+2018-11-24 16:28:34.341 [main] INFO  com.sgic.automation.demo.util.Log >> ************** start test case *************
+2018-11-24 16:28:34.341 [main] INFO  com.sgic.automation.demo.util.Log >> ****************************************
+2018-11-24 16:28:34.430 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ######  entered username ######
+2018-11-24 16:28:34.582 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ######  entered password ######
+2018-11-24 16:28:36.117 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ######  login button clicked ######
+2018-11-24 16:28:39.538 [main] INFO  com.sgic.automation.demo.util.Log >> ****************************************
+2018-11-24 16:28:39.538 [main] INFO  com.sgic.automation.demo.util.Log >> ************** end test case *************
+2018-11-24 16:28:39.538 [main] INFO  com.sgic.automation.demo.util.Log >> ****************************************

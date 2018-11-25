@@ -1,0 +1,10 @@
+com\sgic\automation\demo\util\Functions.class
+com\sgic\automation\demo\util\Log.class
+com\sgic\automation\demo\tests\BaseTest.class
+com\sgic\automation\demo\pages\DashboardPage.class
+com\sgic\automation\demo\tests\UserManagementTest.class
+com\sgic\automation\demo\pages\BasePage.class
+com\sgic\automation\demo\tests\LoginTest.class
+com\sgic\automation\demo\pages\UserManagementPage.class
+com\sgic\automation\demo\pages\LoginPage.class
+com\sgic\automation\demo\util\DataStore.class

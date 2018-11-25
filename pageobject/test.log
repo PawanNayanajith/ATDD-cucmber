@@ -1,0 +1,36 @@
+2018-11-25 07:43:59.894 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> Start executing test case : TC_005
+2018-11-25 07:43:59.993 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered username : Admin
+2018-11-25 07:44:00.037 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered password : 
+2018-11-25 07:44:00.088 [main] INFO  com.sgic.automation.demo.pages.LoginPage >>  Clicked login button
+2018-11-25 07:44:00.118 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> End executing test case : TC_005
+2018-11-25 07:45:05.719 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> Start executing test case : TC_003
+2018-11-25 07:45:05.819 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered username : Admin
+2018-11-25 07:45:05.875 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered password : Admin123
+2018-11-25 07:45:07.078 [main] INFO  com.sgic.automation.demo.pages.LoginPage >>  Clicked login button
+2018-11-25 07:45:07.109 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> End executing test case : TC_003
+2018-11-25 07:45:07.109 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> Start executing test case : TC_004
+2018-11-25 07:45:07.156 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered username : admin
+2018-11-25 07:45:07.205 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered password : Admin123
+2018-11-25 07:45:08.028 [main] INFO  com.sgic.automation.demo.pages.LoginPage >>  Clicked login button
+2018-11-25 07:45:08.053 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> End executing test case : TC_004
+2018-11-25 07:45:14.430 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> Start executing test case : TC_001
+2018-11-25 07:45:14.516 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered username : Admin
+2018-11-25 07:45:14.580 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered password : admin123
+2018-11-25 07:45:17.030 [main] INFO  com.sgic.automation.demo.pages.LoginPage >>  Clicked login button
+2018-11-25 07:45:17.031 [main] INFO  com.sgic.automation.demo.pages.DashboardPage >> Checking if dashboard displayed
+2018-11-25 07:45:19.017 [main] INFO  com.sgic.automation.demo.pages.DashboardPage >> Clicked Welcome menu
+2018-11-25 07:45:20.117 [main] INFO  com.sgic.automation.demo.pages.DashboardPage >> Clicked logout link
+2018-11-25 07:45:20.117 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> End executing test case : TC_001
+2018-11-25 07:45:20.117 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> Start executing test case : TC_002
+2018-11-25 07:45:20.168 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered username : admin
+2018-11-25 07:45:20.219 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered password : admin123
+2018-11-25 07:45:21.605 [main] INFO  com.sgic.automation.demo.pages.LoginPage >>  Clicked login button
+2018-11-25 07:45:21.605 [main] INFO  com.sgic.automation.demo.pages.DashboardPage >> Checking if dashboard displayed
+2018-11-25 07:45:21.682 [main] INFO  com.sgic.automation.demo.pages.DashboardPage >> Clicked Welcome menu
+2018-11-25 07:45:24.142 [main] INFO  com.sgic.automation.demo.pages.DashboardPage >> Clicked logout link
+2018-11-25 07:45:24.143 [main] INFO  com.sgic.automation.demo.tests.LoginTest >> End executing test case : TC_002
+2018-11-25 07:46:29.818 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered username : Admin
+2018-11-25 07:46:29.872 [main] INFO  com.sgic.automation.demo.pages.LoginPage >> Entered password : admin123
+2018-11-25 07:46:32.414 [main] INFO  com.sgic.automation.demo.pages.LoginPage >>  Clicked login button
+2018-11-25 07:46:35.911 [main] INFO  com.sgic.automation.demo.pages.DashboardPage >> Clicked Admin menu
+2018-11-25 07:46:35.912 [main] INFO  com.sgic.automation.demo.pages.UserManagementPage >> Checking if User Management page displayed
